@@ -1,1 +1,5 @@
+int factorial(int n){
+	return 0;
+}
 HOLA
+int fibo(int n);
